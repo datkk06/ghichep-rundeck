@@ -1,7 +1,7 @@
 # Tìm hiểu về Rundeck.
 
 
-##1. Rundeck là gì?
+## 1. Rundeck là gì?
 
 - Rundeck là một phần mềm mã nguồn mở giúp bạn tự động hóa các các quy trình hoạt động thường xuyên tại datacenter hoặc 
 môi trường điện toán đám mây. Rundeck cung cấp một số tính năng làm giảm bớt các công việc khó khăn và tốn nhiều thời gian 
@@ -16,7 +16,7 @@ thêm các tính năng khác giúp chúng ta có thể dễ dàng mở rộng qu
 lập kế hoawjch, thu thập log, và tích hợp các nguồn dữ liệu bên ngoài cho node và các dữ liệu được lựa chọn.
 
 
-##2. Ai là người làm ra Rundeck ?
+## 2. Ai là người làm ra Rundeck ?
 
 - Rundeck được phát triển trên GitHub là một dự án được gọi là [rundeck](https://github.com/rundeck/rundeck) bởi SimplifyOps và cộng đồng Rundeck. Tất cả người dùng mới được 
 hoan nghênh tham gia vào dự án và đóng góp. Vui lòng bỏ phiếu ý tưởng tính năng trên [Trello Ban Rundeck](https://trello.com/b/sn3g9nOr/rundeck-development).

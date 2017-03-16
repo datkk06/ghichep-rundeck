@@ -1,5 +1,6 @@
 # Tìm hiểu về Rundeck.
 
+
 ##1. Rundeck là gì?
 
 - Rundeck là một phần mềm mã nguồn mở giúp bạn tự động hóa các các quy trình hoạt động thường xuyên tại datacenter hoặc 
@@ -14,6 +15,7 @@ hoặc thực hiện các nhiệm vụ.
 thêm các tính năng khác giúp chúng ta có thể dễ dàng mở rộng quy mô tự động hóa bao gồm : Kiểm soát truy cập , xây dựng quy trình làm việc, 
 lập kế hoawjch, thu thập log, và tích hợp các nguồn dữ liệu bên ngoài cho node và các dữ liệu được lựa chọn.
 
+
 ##2. Ai là người làm ra Rundeck ?
 
 - Rundeck được phát triển trên GitHub là một dự án được gọi là [rundeck](https://github.com/rundeck/rundeck) bởi SimplifyOps và cộng đồng Rundeck. Tất cả người dùng mới được 
@@ -21,7 +23,9 @@ hoan nghênh tham gia vào dự án và đóng góp. Vui lòng bỏ phiếu ý t
 
 - Rundeck là phần mềm miễn phí và là công khai theo Giấy phép Apache Software.
 
+
 ##3. Các tính năng của Rundeck.
+
 -  Web API
 - Distributed command execution
 - Pluggable execution system (SSH by default)

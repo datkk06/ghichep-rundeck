@@ -24,7 +24,7 @@ hoan nghênh tham gia vào dự án và đóng góp. Vui lòng bỏ phiếu ý t
 - Rundeck là phần mềm miễn phí và là công khai theo Giấy phép Apache Software.
 
 
-##3. Các tính năng của Rundeck.
+## 3. Các tính năng của Rundeck.
 
 -  Web API
 - Distributed command execution
@@ -37,7 +37,7 @@ hoan nghênh tham gia vào dự án và đóng góp. Vui lòng bỏ phiếu ý t
 - Open integration to external host inventory tools
 - Command line interface tools
 
-##4. Rundeck architecture.
+## 4. Rundeck architecture.
 
 - Rundeck là một ứng dụng máy chủ bạn lưu trữ trên hệ thống bạn chỉ định một điểm kiểm soát trung tâm . Bên trong, bạn lưu trữ 
 các công việc và lịch sử thực hiện trong một cơ sở dữ liệu quan hệ. Đầu ra từ các command và công việc được thực hiện và lưu 
@@ -53,7 +53,7 @@ kết nối trở lại máy chủ.
 - Các ứng dụng Rundeck chính là một webapp trên nền JAVA . Ứng dụng này cung cấp cả giao diện và mạng lưới gioa diện đồ họa được 
 sử dụng bởi các Rundeck shell tools.
 
-##5. Cài đặt Rundeck.
+## 5. Cài đặt Rundeck.
 
 - Sau đây là cách cài đặt Rundeck trên Ubuntu server
 
